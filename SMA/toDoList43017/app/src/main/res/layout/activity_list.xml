@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ListActivity">
+
+
+
+
+    <Button
+        android:id="@+id/newTaskButton"
+        android:layout_width="70dp"
+        android:layout_height="40dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:text="New"
+        android:onClick="mostrarNovoNome">
+    </Button>
+
+
+
+    <androidx.recyclerview.widget.RecyclerView
+
+        android:id="@+id/rv_lista"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:clipToPadding="false"
+        android:padding="4dp"
+        tools:listitem="@layout/list_item" />
+
+    <EditText
+        android:id="@+id/newTaskText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:ems="10"
+        android:visibility="invisible"
+        tools:text=""
+        android:imeOptions="actionDone"
+        android:singleLine="true"/>
+
+    <EditText
+        android:id="@+id/renameTaskText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:ems="10"
+        android:visibility="invisible"
+        tools:text=""
+        android:imeOptions="actionDone"
+        android:singleLine="true"/>
+
+
+
+</RelativeLayout>

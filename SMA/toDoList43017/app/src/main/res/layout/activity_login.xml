@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/check_image"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:scaleX="3"
+        android:scaleY="3"
+        android:src="@android:drawable/checkbox_on_background"
+        android:translationY="160dp" />
+
+    <com.google.android.gms.common.SignInButton
+        android:id="@+id/sign_in"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:buttonSize="wide"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        />
+
+    <TextView
+        android:id="@+id/todoList_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:text="ToDo List"
+        android:textSize="50sp"
+        android:translationY="200dp" />
+
+</RelativeLayout>
