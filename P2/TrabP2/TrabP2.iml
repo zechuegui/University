@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <content url="jar://A:/Ambiente de Trabalho/packages/galapagos.jar!/" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="javafx-swt" level="application" />
+    <orderEntry type="library" name="Galapagos2009" level="project" />
+    <orderEntry type="library" name="Galapagos20091" level="project" />
+    <orderEntry type="library" name="Galapagos20092" level="project" />
+    <orderEntry type="library" name="Galapagos20093" level="project" />
+    <orderEntry type="library" name="galapagos" level="project" />
+  </component>
+</module>

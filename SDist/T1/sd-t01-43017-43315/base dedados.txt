@@ -1,0 +1,23 @@
+centros - nomeC (PK)
+
+fila - nomeC (FK), cc (FK), codigo (PK) <-(GERADO AUTOMATIXCAMENTE)
+
+pessoa - cc (PK), nomeP,  idade, genero
+
+efeitos - codigo(PK)(FK), descricao(varchar(500)), tipo_vac
+
+vacinados - codigo(PK)(FK)
+////////////////////////////////////////////////////////////////
+create table centros(nomeC varchar(128) primary key);
+
+create table pessoa (cc varchar(12) primary key, nomeP varchar(128), idade integer,
+ genero char(1));  
+
+create table fila(nomeC varchar(128), cc varchar(12), codigo varchar(4) primary key,
+ foreign key (nomeC) references centros, foreign key (cc) references pessoa);
+
+create table vacinados ( codigo varchar(4) primary key, 
+data timestamp without time zone, modeloVac varchar(50));
+
+create table efeitoS (codigo varchar(4), descricao varchar(500), 
+modeloVac varchar(50), primary key (codigo, descricao), foreign key (codigo) references vacinados);

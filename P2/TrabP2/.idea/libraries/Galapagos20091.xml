@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Galapagos20091">
+    <CLASSES />
+    <JAVADOC>
+      <root url="file://$PROJECT_DIR$/../../../Galapagos2009/doc" />
+      <root url="file://$PROJECT_DIR$/../../../Galapagos2009/doc_detailed" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../../Galapagos2009" />
+    </SOURCES>
+  </library>
+</component>

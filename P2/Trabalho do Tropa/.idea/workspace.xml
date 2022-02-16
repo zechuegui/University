@@ -1,0 +1,640 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="untitled:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8bdc2105-6fa3-49c4-8fa8-0440473244fe" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Trabalho" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Interpreter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Compiler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="32" column="1" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
+              <folding>
+                <element signature="e#352#353#0" expanded="true" />
+                <element signature="e#396#397#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/LSystems.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="31" selection-start-line="31" selection-end-line="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Buttons.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/TextAreas.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/PenDown.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/MyWindow.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="734">
+              <caret line="1167" selection-start-line="1167" selection-end-line="1167" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SubMenu.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/PenUp.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>systems</find>
+      <find>System.out</find>
+      <find>interpreters</find>
+      <find>interpreterC</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/nome/Nome.java" />
+        <option value="$PROJECT_DIR$/src/Sierpinski.java" />
+        <option value="$PROJECT_DIR$/src/Sierpinski/Sierpinski.java" />
+        <option value="$PROJECT_DIR$/src/Sierpinski/LSistems.java" />
+        <option value="$PROJECT_DIR$/src/LSistems.java" />
+        <option value="$PROJECT_DIR$/src/Koch/KochCurve.java" />
+        <option value="$PROJECT_DIR$/src/KochCurve/Interface.java" />
+        <option value="$PROJECT_DIR$/src/Interface/Interface.java" />
+        <option value="$PROJECT_DIR$/src/Interface/Window.java" />
+        <option value="$PROJECT_DIR$/src/KochCurve/Compiler.java" />
+        <option value="$PROJECT_DIR$/src/KochCurve/TurtleStatement.java" />
+        <option value="$PROJECT_DIR$/src/KochCurve/Interpreter.java" />
+        <option value="$PROJECT_DIR$/src/KochCurve/LSystem.java" />
+        <option value="$PROJECT_DIR$/src/KochCurve/KochCurve.java" />
+        <option value="$PROJECT_DIR$/src/Rule.java" />
+        <option value="$PROJECT_DIR$/src/InterpreterClass.java" />
+        <option value="$PROJECT_DIR$/src/LSystemClass.java" />
+        <option value="$PROJECT_DIR$/src/JFrame.java" />
+        <option value="$PROJECT_DIR$/src/ButtonUt.java" />
+        <option value="$PROJECT_DIR$/src/MAin.java" />
+        <option value="$PROJECT_DIR$/src/ClickAndClear.java" />
+        <option value="$PROJECT_DIR$/src/Main.form" />
+        <option value="$PROJECT_DIR$/src/GUIMain.form" />
+        <option value="$PROJECT_DIR$/src/GUIMain.java" />
+        <option value="$PROJECT_DIR$/src/LotsOfFrames.java" />
+        <option value="$PROJECT_DIR$/src/GuiMain.form" />
+        <option value="$PROJECT_DIR$/src/KochCurve.java" />
+        <option value="$PROJECT_DIR$/src/LSystem.java" />
+        <option value="$PROJECT_DIR$/src/TurtleStatement.java" />
+        <option value="$PROJECT_DIR$/src/Forward.java" />
+        <option value="$PROJECT_DIR$/src/Turn.java" />
+        <option value="$PROJECT_DIR$/src/PenUp.java" />
+        <option value="$PROJECT_DIR$/src/PenDown.java" />
+        <option value="$PROJECT_DIR$/src/LSystems.java" />
+        <option value="$PROJECT_DIR$/src/Compiler.java" />
+        <option value="$PROJECT_DIR$/src/Leap.java" />
+        <option value="$PROJECT_DIR$/src/Window.java" />
+        <option value="$PROJECT_DIR$/src/GraphicInterface/Window.java" />
+        <option value="$PROJECT_DIR$/src/Work.java" />
+        <option value="$PROJECT_DIR$/src/GraphicInterface/TextFields.java" />
+        <option value="$PROJECT_DIR$/src/GraphicInterface/SubMenu.java" />
+        <option value="$PROJECT_DIR$/src/GraphicInterface/Buttons.java" />
+        <option value="$PROJECT_DIR$/src/GraphicInterface/MyWindow.java" />
+        <option value="$PROJECT_DIR$/src/Labels.java" />
+        <option value="$PROJECT_DIR$/src/TextFields.java" />
+        <option value="$PROJECT_DIR$/src/Interpreter.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/Buttons.java" />
+        <option value="$PROJECT_DIR$/src/Interpreters.java" />
+        <option value="$PROJECT_DIR$/src/SubMenu.java" />
+        <option value="$PROJECT_DIR$/src/MyWindow.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="963" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Trabalho" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Trabalho" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Trabalho" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Trabalho" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Trabalho" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/GraphicInterface" />
+      <recent name="C:\Users\Minixkender\IdeaProjects\untitled\src\KochCurve" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="untitled" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyWindow" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyWindow" />
+      <module name="untitled" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Ola" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.MyWindow" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8bdc2105-6fa3-49c4-8fa8-0440473244fe" name="Default Changelist" comment="" />
+      <created>1556792260972</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556792260972</updated>
+      <workItem from="1556792271232" duration="792000" />
+      <workItem from="1556795283670" duration="479000" />
+      <workItem from="1556808337492" duration="108000" />
+      <workItem from="1556808724769" duration="23000" />
+      <workItem from="1556818116636" duration="500000" />
+      <workItem from="1556988872656" duration="1439000" />
+      <workItem from="1557139499559" duration="62000" />
+      <workItem from="1557151838159" duration="307000" />
+      <workItem from="1557160236182" duration="756000" />
+      <workItem from="1557239405191" duration="19000" />
+      <workItem from="1557417171798" duration="3628000" />
+      <workItem from="1557423734898" duration="280000" />
+      <workItem from="1557424297063" duration="5114000" />
+      <workItem from="1557438294402" duration="16000" />
+      <workItem from="1557512851407" duration="167000" />
+      <workItem from="1557768895154" duration="84000" />
+      <workItem from="1557829739600" duration="568000" />
+      <workItem from="1557838743857" duration="58000" />
+      <workItem from="1557839785258" duration="543000" />
+      <workItem from="1557841846651" duration="490000" />
+      <workItem from="1557850429695" duration="3011000" />
+      <workItem from="1557869807000" duration="8239000" />
+      <workItem from="1557931752986" duration="321000" />
+      <workItem from="1557947136471" duration="1200000" />
+      <workItem from="1557948476253" duration="922000" />
+      <workItem from="1557950955864" duration="1203000" />
+      <workItem from="1557952233055" duration="11000" />
+      <workItem from="1558024349481" duration="211000" />
+      <workItem from="1558024578905" duration="32000" />
+      <workItem from="1558026206253" duration="11554000" />
+      <workItem from="1558041682189" duration="566000" />
+      <workItem from="1558199363957" duration="782000" />
+      <workItem from="1558346062444" duration="123000" />
+      <workItem from="1558472444995" duration="91000" />
+      <workItem from="1558472828132" duration="636000" />
+      <workItem from="1558637345399" duration="777000" />
+      <workItem from="1558706885395" duration="35000" />
+      <workItem from="1558965222234" duration="167000" />
+      <workItem from="1558965732995" duration="130000" />
+      <workItem from="1558974456130" duration="5046000" />
+      <workItem from="1559056825322" duration="2444000" />
+      <workItem from="1559063721142" duration="10619000" />
+      <workItem from="1559139099237" duration="10520000" />
+      <workItem from="1559229993650" duration="3877000" />
+      <workItem from="1559235162056" duration="4470000" />
+      <workItem from="1559240023261" duration="3216000" />
+      <workItem from="1559251731404" duration="261000" />
+      <workItem from="1559252076039" duration="650000" />
+      <workItem from="1559314929163" duration="9581000" />
+      <workItem from="1559400864192" duration="4836000" />
+      <workItem from="1559406359638" duration="1549000" />
+      <workItem from="1559410372498" duration="2307000" />
+      <workItem from="1559499240218" duration="111000" />
+      <workItem from="1559572567107" duration="147000" />
+      <workItem from="1559580743370" duration="6559000" />
+      <workItem from="1559594976545" duration="642000" />
+      <workItem from="1559599395039" duration="4000" />
+      <workItem from="1559616802234" duration="4032000" />
+      <workItem from="1559862474562" duration="613000" />
+      <workItem from="1559952798204" duration="1947000" />
+      <workItem from="1560004183573" duration="778000" />
+      <workItem from="1560005579045" duration="3501000" />
+      <workItem from="1560015004629" duration="10456000" />
+      <workItem from="1560025659056" duration="17598000" />
+      <workItem from="1560043609298" duration="1892000" />
+      <workItem from="1560045850242" duration="9000" />
+      <workItem from="1560093115613" duration="16899000" />
+      <workItem from="1560124777588" duration="3372000" />
+      <workItem from="1560129207781" duration="23000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="173403000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1680" height="963" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49784482" visible="true" weight="0.11233211" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.5021552" side_tool="true" weight="0.11123409" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32932165" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.16073479" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39870688" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3297414" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.1336207" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="1" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="2" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.24958494" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Interface/Window.java" />
+    <entry file="file://$PROJECT_DIR$/src/Interface/Interface.java" />
+    <entry file="file://$PROJECT_DIR$/src/KochCurve/Compiler.java" />
+    <entry file="file://$PROJECT_DIR$/src/KochCurve/LSystem.java" />
+    <entry file="file://$PROJECT_DIR$/src/KochCurve/KochCurve.java" />
+    <entry file="file://$PROJECT_DIR$/src/KochCurve/TurtleStatement.java" />
+    <entry file="file://$PROJECT_DIR$/src/KochCurve/Interpreter.java" />
+    <entry file="file://$PROJECT_DIR$/src/RUle.java" />
+    <entry file="jar://$USER_HOME$/.sdkman/candidates/java/11.0.3-zulu/lib/src.zip!/java.base/java/util/Vector.java" />
+    <entry file="file://$PROJECT_DIR$/src/ButtonUt.java" />
+    <entry file="file://$PROJECT_DIR$/src/ClickAndClear.java" />
+    <entry file="file://$PROJECT_DIR$/src/Main.form" />
+    <entry file="file://$PROJECT_DIR$/src/GUIMain.java" />
+    <entry file="file://$PROJECT_DIR$/src/GUIMain.form" />
+    <entry file="file://$PROJECT_DIR$/src/KochCurve.java" />
+    <entry file="file://$PROJECT_DIR$/src/LotsOfFrames.java" />
+    <entry file="jar://$USER_HOME$/.sdkman/candidates/java/11.0.3-zulu/lib/src.zip!/java.base/java/lang/ref/ReferenceQueue.java" />
+    <entry file="file://$PROJECT_DIR$/src/TurtleStatement.java" />
+    <entry file="file://$PROJECT_DIR$/src/LSystem.java" />
+    <entry file="file://$PROJECT_DIR$/src/Window.java" />
+    <entry file="file://$PROJECT_DIR$/src/GraphicInterface/Window.java" />
+    <entry file="file://$PROJECT_DIR$/src/Work.java" />
+    <entry file="file://$PROJECT_DIR$/src/GraphicInterface/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/Leap.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Turn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.sdkman/candidates/java/11.0.3-zulu/lib/src.zip!/java.base/jdk/internal/loader/ClassLoaders.java" />
+    <entry file="jar://$USER_HOME$/.sdkman/candidates/java/11.0.3-zulu/lib/src.zip!/java.base/jdk/internal/loader/BuiltinClassLoader.java" />
+    <entry file="jar://$USER_HOME$/.sdkman/candidates/java/11.0.3-zulu/lib/src.zip!/java.base/java/lang/Object.java" />
+    <entry file="jar://$USER_HOME$/.sdkman/candidates/java/11.0.3-zulu/lib/src.zip!/java.base/java/lang/StringLatin1.java" />
+    <entry file="jar://$USER_HOME$/.sdkman/candidates/java/11.0.3-zulu/lib/src.zip!/java.base/java/lang/String.java" />
+    <entry file="jar://$USER_HOME$/.sdkman/candidates/java/11.0.3-zulu/lib/src.zip!/java.base/java/util/concurrent/ConcurrentHashMap.java" />
+    <entry file="jar://$USER_HOME$/.sdkman/candidates/java/11.0.3-zulu/lib/src.zip!/java.base/java/lang/ClassLoader.java" />
+    <entry file="jar://$USER_HOME$/.sdkman/candidates/java/11.0.3-zulu/lib/src.zip!/java.base/java/lang/System.java" />
+    <entry file="file://$PROJECT_DIR$/src/Labels.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="62" lean-forward="true" selection-start-line="62" selection-end-line="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TextFields.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="30" column="8" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="45" lean-forward="true" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Forward.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Interpreters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Interpreter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Compiler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="32" column="1" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
+          <folding>
+            <element signature="e#352#353#0" expanded="true" />
+            <element signature="e#396#397#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LSystems.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Buttons.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TextAreas.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PenDown.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SubMenu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PenUp.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MyWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="734">
+          <caret line="1167" selection-start-line="1167" selection-end-line="1167" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>untitled:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>galapagos</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>untitled</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>galapagos</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
